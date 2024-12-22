@@ -1,0 +1,30 @@
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Logs and debugging
+*.log
+*.out
+
+# Virtual environment
+venv/
+env/
+
+# IDE-related
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Git-related
+.git/
+
+# Files specific to the project
+bbc_headlines_*.txt  # To ignore the saved headline files (optional)
